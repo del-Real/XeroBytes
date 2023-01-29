@@ -4,10 +4,6 @@ Prerequisites
 
  - Node.js - v16.12.0 or higher.
 
-```
-npm run dev
-```
-
 ## Project Structure
 
 Inside of your Astro project, you'll see the following folders and files:
