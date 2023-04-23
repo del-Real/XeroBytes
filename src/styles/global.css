@@ -87,6 +87,7 @@ hr {
     rgb(15 23 42 / 0)
   );
   padding: 30px;
+  min-height: 1135px;
 }
 
 .page-content h2,
